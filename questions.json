@@ -1,0 +1,48 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Người nước ngoài cư trú tại Việt Nam có quyền nào sau đây?",
+            "options": [
+                "Được tự ý quyết định tham gia các hoạt động chính trị mà không cần đăng ký.",
+                "Được miễn hoàn toàn nghĩa vụ thuế trong thời gian cư trú.",
+                "Được bảo đảm quyền sở hữu tài sản theo quy định của pháp luật.",
+                "Được cấp thẻ căn cước công dân như công dân Việt Nam."
+            ],
+            "correct_answer": "2"
+        },
+        {
+            "id": 2,
+            "question": "Người nước ngoài có trách nhiệm gì khi cư trú tại Việt Nam?",
+            "options": [
+                "Được miễn tất cả các nghĩa vụ pháp lý và thuế.",
+                "Phải tuân thủ pháp luật Việt Nam và thông báo cho cơ quan chức năng khi thay đổi địa chỉ cư trú.",
+                "Có quyền tự ý định cư mà không cần giấy tờ hợp lệ.",
+                "Không cần thực hiện nghĩa vụ gì, chỉ cần có visa."
+            ],
+            "correct_answer": "1"
+        },
+        {
+            "id": 3,
+            "question": "Người không quốc tịch tại Việt Nam có quyền nào sau đây?",
+            "options": [
+                "Được cấp thẻ căn cước công dân như công dân Việt Nam.",
+                "Được miễn hoàn toàn mọi loại giấy tờ tùy thân.",
+                "Được tham gia bầu cử tại các cuộc bầu cử ở Việt Nam.",
+                "Được đăng ký cư trú tại Việt Nam và hưởng các quyền lợi theo quy định pháp luật."
+            ],
+            "correct_answer": "3"
+        },
+        {
+            "id": 4,
+            "question": "Đặc điểm nào sau đây không đúng về quy chế pháp lý của người nước ngoài tại Việt Nam?",
+            "options": [
+                "Người nước ngoài có quyền sở hữu tài sản theo quy định của pháp luật Việt Nam.",
+                "Người nước ngoài được tự do tham gia vào tất cả các hoạt động chính trị tại Việt Nam.",
+                "Người nước ngoài phải tuân thủ các quy định về cư trú và đăng ký tạm trú.",
+                "Người nước ngoài có nghĩa vụ thực hiện nghĩa vụ thuế nếu có thu nhập phát sinh tại Việt Nam."
+            ],
+            "correct_answer": "1"
+        }
+    ]
+}
