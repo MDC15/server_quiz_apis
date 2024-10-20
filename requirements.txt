@@ -5,5 +5,4 @@ pydantic
 pandas
 db-sqlite3
 pysqlite3
-pysqlite
 python-multipart
