@@ -36,4 +36,4 @@ async def get_ranking():
 
 
 def run_fastapi():
-    uvicorn.run(app, host="127.0.0.1", port=3080)
+    uvicorn.run(app, host="https://serverquizapis-gvqxqkov76pqp3qpxaey97.streamlit.app/", port=8080)
